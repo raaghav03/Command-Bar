@@ -24,7 +24,7 @@ const App: React.FC = () => {
 
   return (
     <div className="flex flex-col h-full">
-      <div className="mx-80 relative border border-gray-200 p-12 flex-grow">
+      <div className="mx-56 relative border border-gray-200 p-12 flex-grow">
         <h1 className=" text-xl mb-12">
           Press <Kbd>⌘K</Kbd> to launch command bar
         </h1>
